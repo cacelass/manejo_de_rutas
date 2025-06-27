@@ -1,0 +1,17 @@
+name: manejo_de_rutas
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - fs
+  - jupyter
+  - jupyterlab
+  - pathlib
+  - pip
+  - pyprojroot
+  - pyprojroot
+  - python=3.10
+  - pip:
+    - pyhere
+    
